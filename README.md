@@ -3,7 +3,24 @@
 
 Welcome to my project! You can find the latest release and release notes in the [Releases](https://github.com/v1nqour/VINQOLEARN/releases) section.
 
+##Welcome Page:
 ![Local Image](Intro_page.PNG)
+
+##Sign up Page:
+![Local Image](sign_up_page.PNG)
+
+##Dashboard Page:
+![Local Image](Dashboard.PNG)
+
+##Auther Page:
+![Local Image](Auther.PNG)
+
+##Contact Us Page:
+![Local Image](contact_us.PNG)
+
+##Admin Pages:
+![Local Image](Admin1.JPG)
+![Local Image](Admin2.JPG)
 
 ### To set up a [Laravel] project using an alternative method, you can follow these steps:
 ####  type the following command in the Terminal
