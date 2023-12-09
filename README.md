@@ -2,6 +2,9 @@
 [![Latest Release](https://img.shields.io/github/v/release/v1nqour/VINQOLEARN?label=latest%20release&style=flat-square)](https://github.com/v1nqour/VINQOLEARN/releases)
 
 Welcome to my project! You can find the latest release and release notes in the [Releases](https://github.com/v1nqour/VINQOLEARN/releases) section.
+
+![Local Image](VINQOLEARN/Intro_page.PNG)
+
 ### To set up a [Laravel] project using an alternative method, you can follow these steps:
 ####  type the following command in the Terminal
 `cd laravel` 
