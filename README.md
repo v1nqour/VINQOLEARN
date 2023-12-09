@@ -1,5 +1,5 @@
 # VINQOLEARN
-![Latest Release](https://github.com/v1nqour/VINQOLEARN/releases/tag/V4)
+[Latest Release](https://github.com/v1nqour/VINQOLEARN/releases/tag/V4)
 
 Welcome to my project! You can find the latest release and release notes in the [Releases](https://github.com/v1nqour/VINQOLEARN/releases) section.
 
