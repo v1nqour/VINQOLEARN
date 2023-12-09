@@ -56,14 +56,6 @@ Welcome to my project! You can find the latest release and release notes in the 
 `npm run serve`  
 
 
-**Commands to add Products || Categories:**  
-`php artisan add:product`  
-`php artisan add:category`
-
-**Commands to remove Products || Categories:**  
-`php artisan remove:product`  
-`php artisan remove:category`
-
 ### Open This link to display the project:
 [Open](http://127.0.0.1:8000/)
 
