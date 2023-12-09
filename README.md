@@ -22,7 +22,7 @@ Welcome to my project! You can find the latest release and release notes in the 
 ![Local Image](Admin1.JPG)
 ![Local Image](Admin2.JPG)
 
-### To set up a [Laravel] project using an alternative method, you can follow these steps:
+### To set up a ***Laravel*** project using an alternative method, you can follow these steps:
 ####  type the following command in the Terminal
 `cd laravel` 
 #### Copy .env file then fill database fields
