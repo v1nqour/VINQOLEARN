@@ -24,8 +24,8 @@ Welcome to my project! You can find the latest release and release notes in the 
 ![Local Image](Admin2.JPG)
 
 ### To set up a ***Laravel*** project using an alternative method, you can follow these steps:
-####  type the following command in the Terminal
-`cd laravel` 
+####  type the following command in the Terminal:
+
 #### Copy .env file then fill database fields
 `cp .env.example .env` 
 #### Install dependencies
@@ -41,9 +41,8 @@ Welcome to my project! You can find the latest release and release notes in the 
 #### serve the project
 `php artisan serve`
 
-### To set up a [Vue.js] project using an alternative method, you can follow these steps: :
-#### Open the terminal then type the following commands
-`cd vue` 
+### To set up a [ReactJS] project using an alternative method, you can follow these steps: 
+#### Open the terminal then type the following commands:
 #### Install dependencies
 `npm install`  
 #### If you encounter an error while setting up the composer, try running this comands:
