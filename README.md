@@ -1,5 +1,5 @@
 # VINQOLEARN
-[![Latest Release](https://img.shields.io/github/v/release/v1nqour/VINQOLEARN?label=latest%20release&style=flat-square)](https://github.com/v1nqour/VINQOLEARN/releases/tag/V4)
+[![Latest Release](https://img.shields.io/github/v/release/v1nqour/VINQOLEARN?label=latest%20release&style=flat-square)](https://github.com/v1nqour/VINQOLEARN)
 
 Welcome to my project! You can find the latest release and release notes in the [Releases](https://github.com/v1nqour/VINQOLEARN/releases) section.
 
