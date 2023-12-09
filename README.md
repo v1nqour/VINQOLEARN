@@ -1,4 +1,5 @@
-# VINQOLEARN### You can download project files as a zip or using git by typing this comand:
+# VINQOLEARN
+### You can download project files as a zip or using git by typing this comand:
 `git clone https://github.com/v1nqour/Laravel-Vue-js-.git`
 
 ### To set up a [Laravel] project using an alternative method, you can follow these steps:
